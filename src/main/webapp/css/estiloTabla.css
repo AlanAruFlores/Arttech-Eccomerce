@@ -1,0 +1,42 @@
+
+
+*{
+	color: white;
+}
+.botonPagar{
+	margin-left:40px;
+	font-size: 20px;
+	text-align: center;
+}
+table{
+	font-size:28px;
+	text-align:center;
+}
+table thead{
+	background-color: rgb(82, 14, 73);
+}
+#idPlus, #idMinus{
+	font-size:20px;
+	margin: 0px 10px;
+}
+#cardUsuario{
+	background-color:rgb(39, 42, 58);
+	border-color: black;
+	border-width: 2px;
+	margin: 20px auto;
+}
+#cardUsuario input{
+	color:white;
+	background-color:rgb(39, 42, 58);
+}
+#cardUsuario input ::placeholder{
+	color:#fff;
+}
+.tituloModificar{
+	color:white;
+	text-align: center;
+	margin:20px 0;
+}
+footer{
+	margin-top: 400px;
+}
